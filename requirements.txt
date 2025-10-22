@@ -1,0 +1,13 @@
+# Uygulamanın çalışması için KESİNLİKLE gereken temel paketler
+streamlit
+pandas
+datasets
+
+# LangChain'i çekirdek bağımlılıklardan korumalı modda yüklemeye zorlar.
+langchain
+langchain-chroma
+langchain-google-genai
+
+# Çakışmayı önlemek için minimum bağımlılıklar
+pydantic==1.10.13
+protobuf==3.20.3
