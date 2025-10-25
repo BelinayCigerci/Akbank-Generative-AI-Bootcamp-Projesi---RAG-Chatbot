@@ -1,1 +1,0 @@
-# Akbank-Generative-AI-Bootcamp-Projesi---RAG-Chatbot
